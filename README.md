@@ -1,2 +1,12 @@
-# magento2-dev-guide
-# magento2-dev-guide
+1. Fundamentos de Módulos Personalizados
+1.1. Creación de módulo: https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d5b29129c1d3b8c9d0f1b15d2108bb834a0761b3
+1.2 ..
+
+2. Estructura
+2.1. …
+2.2. …
+
+3. Modelo de Base de Datos
+3.1. …
+3.2. …
+
