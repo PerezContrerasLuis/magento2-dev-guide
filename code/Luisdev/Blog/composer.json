@@ -1,0 +1,20 @@
+{
+  "name": "luisdev/module-blog",
+  "version": "1.0.0",
+  "description": "first module",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "license": [
+    "Open Software License (OSL)"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Luisdev\\Blog\\": ""
+    }
+  }
+}
