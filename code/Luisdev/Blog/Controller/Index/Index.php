@@ -3,11 +3,18 @@
 namespace Luisdev\Blog\Controller\Index;
 
 use Magento\Framework\App\Action\HttpGetActionInterface;
+use Magento\Framework\Controller\Result\Redirect;
+use Magento\Framework\Controller\Result\RedirectFactory;
 
 class Index implements HttpGetActionInterface
 {
-    public function execute()
+    public function __construct(private RedirectFactory $redirectFactory)
     {
-        die('Blog index');
+    }
+
+    public function execute(): Redirect
+    {
+        $redirect = $this->redirectFactory->create();
+        return $redirect->setPath('*/post/list');
     }
 }
