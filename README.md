@@ -15,6 +15,7 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
      - - 1.7.1. [Resultado en el navegador](https://github.com/PerezContrerasLuis/magento2-dev-guide/blob/main/docs/screenshots/blog_post_detail.png)
      - 1.8. [Mover bloques de magento dentro de una vista](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/8b614fe2411149d271881f927e1d7ae529582150)
      - - 1.8.1. [Resultado en el navegador](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/48ec6a80a9c9d7a86c476b299060df1c5b4efaf6)
+      - 1.9. [Traduccion de texto de plantillas con i18n](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ae06bf8bb95ab22e627783de494281216c14721c)
 
 2. **Estructura**
     - 2.1. (Próximamente)
