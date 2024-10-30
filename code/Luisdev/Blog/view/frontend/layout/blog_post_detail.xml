@@ -9,5 +9,6 @@
         <referenceContainer name="sidebar.additional">
             <block name="blog.post.sidebar" template="Luisdev_Blog::post/sidebar.phtml"/>
         </referenceContainer>
+        <move element="wishlist_sidebar" destination="sidebar.additional" before="catalog.compare.sidebar"/>
     </body>
 </page>
