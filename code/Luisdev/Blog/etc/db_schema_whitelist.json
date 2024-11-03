@@ -1,0 +1,13 @@
+{
+    "luisdev_blog_post": {
+        "column": {
+            "id": true,
+            "title": true,
+            "content": true,
+            "created_at": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
