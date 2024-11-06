@@ -18,12 +18,13 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
      - 1.9. [Traduccion de texto de plantillas con i18n](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ae06bf8bb95ab22e627783de494281216c14721c)
      - 1.10. [Sobrescribir una plantilla de bloque existente en Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/afea5f72035db153719e1a388c163bd22de8c4ef)
 
-2. **Modelo de Base de Datos**
+2. **Gestión y Persistencia de Datos en (BDD)**
     - 2.1. [Creación de tabla con db_schema.xml](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a1c508792ca81858a2c928227db98f4e4f9e9d66)
     - 2.2. [Gestión de columnas de base de datos con db_schema_whitelist](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/91c4925131846bfc0e8721258475dfee075f73e9)
     - 2.3. [Implementación de Model, ResourceModel y Collection para gestión de datos](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/440412ef139f11ed8801bc413dcb93a438a013c7)
     - 2.4. [Contrato de servicios DTO, repositoryInterface y repositorio](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f215e274daf245ce3cf0fe24a914d2bd776bdddb)
     - 2.5. [Implementación de DTO en el modelo Post](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7ae3dbc18fe94a10716f70268be3d110c6a4d782)
+    - 2.6. [Usando PostRepository para leer datos del ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ef86a7eab3c07b3aff6d40531f25bf7362a30a51)
 
 3. **Fundamentals de JS para Magento 2**
     - 3.1. (.....)
