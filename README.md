@@ -23,14 +23,16 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
     - 2.2. [Gestión de columnas de base de datos con db_schema_whitelist](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/91c4925131846bfc0e8721258475dfee075f73e9)
     - 2.3. [Implementación de Model, ResourceModel y Collection para gestión de datos](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/440412ef139f11ed8801bc413dcb93a438a013c7)
     - 2.4. [Contrato de servicios DTO, repositoryInterface y repositorio](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f215e274daf245ce3cf0fe24a914d2bd776bdddb)
+    - 2.5. [Implementación de DTO en el modelo Post](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7ae3dbc18fe94a10716f70268be3d110c6a4d782)
 
-3. **REST API**
+3. **Fundamentals de JS para Magento 2**
     - 3.1. (.....)
     - 3.2. (Próximamente)
 
-4. **Gestión de Datos en Bases de Datos**
+4. **REST API**
     - 3.1. (.....)
     - 3.2. (Próximamente)
+    - 3.3. []()
 
 ## Requerimientos para Magento 2.4.7
 
