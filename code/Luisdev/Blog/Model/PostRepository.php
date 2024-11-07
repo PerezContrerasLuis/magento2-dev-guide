@@ -5,6 +5,7 @@ namespace Luisdev\Blog\Model;
 use Luisdev\Blog\Api\Data\PostInterface;
 use Luisdev\Blog\Api\PostRepositoryInterface;
 use Luisdev\Blog\Model\ResourceModel\Post as PostResourceModel;
+use Magento\Framework\Exception\CouldNotSaveException;
 use Magento\Framework\Exception\LocalizedException;
 use Magento\Framework\Exception\NoSuchEntityException;
 
@@ -39,7 +40,12 @@ class PostRepository implements PostRepositoryInterface
 
     public function save(PostInterface $post): PostInterface
     {
-        // TODO: Implement save() method.
+        try {
+            $this->postResourceModel->save($post);
+        } catch (\Exception $exception) {
+            throw new CouldNotSaveException(__($exception->getMessage()));
+        }
+        return $post;
     }
 
     public function deleteById(int $id): bool
