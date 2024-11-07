@@ -29,14 +29,18 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
     - 2.8. [Usando PostRepository para eliminar datos con ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/15d2d013477b19237529adf9b447e8a1e31a10aa)
     - 2.9. [Insertando datos en la tabla de blog usando Data Patch](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/12e00bd910fe25d34898e3f629f810cca21927ff)
 
-3. **Fundamentals de JS para Magento 2**
+3. **View Models y Repositorios para Carga de Datos**
     - 3.1. (.....)
     - 3.2. (Próximamente)
 
-4. **REST API**
-    - 3.1. (.....)
-    - 3.2. (Próximamente)
-    - 3.3. []()
+4. **Fundamentals de JS para Magento 2**
+    - 4.1. (.....)
+    - 4.2. (Próximamente)
+
+5. **REST API**
+    - 5.1. (.....)
+    - 5.2. (Próximamente)
+    - 5.3. []()
 
 ## Requerimientos para Magento 2.4.7
 
