@@ -30,7 +30,7 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
     - 2.9. [Insertando datos en la tabla de blog usando Data Patch](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/12e00bd910fe25d34898e3f629f810cca21927ff)
 
 3. **View Models y Repositorios para Carga de Datos**
-    - 3.1. [¿Qué es un ViewModel en Magento 2 y por qué usarlo?]()
+    - 3.1. [¿Qué es un ViewModel en Magento 2 y por qué usarlo?](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2791a7e28091dfb7b20a25aed056f45339a89808)
     - 3.2. (Próximamente)
 
 4. **Fundamentals de JS para Magento 2**
