@@ -1,3 +1,18 @@
-<div class="blog-post-lit">
-    <p><?= __('New Blog Post List template') ?></p>
+<?php
+/** @var Magento\Framework\View\Element\Template $block */
+/** @var Luisdev\Blog\ViewModel\Post $postVm */
+$postVm = $block->getData('post_vm');
+?>
+<div class="blog-post-list">
+    <h1><?= __('Blog posts') ?></h1>
+    <ul>
+        <?php foreach ($postVm->getList() as $post): ?>
+            <li>
+                <a href="<?= $block->getUrl('blog/post/detail', ['id' => $post->getData('id')]) ?>">
+                    <?= $post->getData('title') ?>
+                </a>
+            </li>
+        <?php endforeach ?>
+    </ul>
+    <p><?= __('Post count: %1', 20) ?></p>
 </div>
