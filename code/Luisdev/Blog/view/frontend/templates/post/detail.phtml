@@ -1,3 +1,11 @@
+<?php
+/** @var Magento\Framework\View\Element\Template $block */
+/** @var Luisdev\Blog\ViewModel\Post $postVm */
+$postVm = $block->getData('post_vm');
+$post = $postVm->getDetail();
+?>
 <div class="blog-post-detail">
-    <p><?= __(' detail section') ?></p>
+    <h1><?= $post->getTitle() ?></h1>
+    <p><em><?= __('Created at: %1', $post->getCreatedAt()) ?></em></p>
+    <p><?= $post->getContent() ?></p>
 </div>
