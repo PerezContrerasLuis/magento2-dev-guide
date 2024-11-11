@@ -32,6 +32,7 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
 3. **View Models y Repositorios para Carga de Datos**
     - 3.1. [¿Qué es un ViewModel en Magento 2 y por qué usarlo?](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2791a7e28091dfb7b20a25aed056f45339a89808)
     - 3.2. [Pasando datos a un template mediante un ViewModel que usa Collection](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b7a4bfc1b44eccb94c92e9d5ad4756ec575c57b8)
+    - 3.3. [Pasando datos a template Sidebar mediante un ViewModel que usa Collection](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/60f0040833a62574960cbfc32247dcd7eb120a03)
 
 4. **Fundamentals de JS para Magento 2**
     - 4.1. (.....)
