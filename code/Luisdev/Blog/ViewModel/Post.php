@@ -16,4 +16,9 @@ class Post implements ArgumentInterface
     {
         return $this->collection->getItems();
     }
+
+    public function getCount(): int
+    {
+        return count($this->getList());
+    }
 }
