@@ -28,6 +28,7 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
     - 2.7. [Usando PostRepository para guardar datos con ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5a3058e3c6fd18e7a44799adb9be4674b7030f38)
     - 2.8. [Usando PostRepository para eliminar datos con ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/15d2d013477b19237529adf9b447e8a1e31a10aa)
     - 2.9. [Insertando datos en la tabla de blog usando Data Patch](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/12e00bd910fe25d34898e3f629f810cca21927ff)
+    - 2.10. [Exponiendo los métodos de PostRepositoryInterface como endpoints de una API REST](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/655e3f9c85661a6a1ff7b27615690c5a761699a5)
 
 3. **View Models y Repositorios para Carga de Datos**
     - 3.1. [¿Qué es un ViewModel en Magento 2 y por qué usarlo?](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2791a7e28091dfb7b20a25aed056f45339a89808)
