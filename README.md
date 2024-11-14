@@ -37,14 +37,18 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
     - 3.4. [Agregando función getCount al ViewModel Post](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e53307668af48c5cc4b8e56d11ea88342c85dfa8)
     - 3.5. [Pasando datos a template List mediante un ViewModel usando PostRepository](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e3e18f8535e9eaaddcd6561ff902859118a1609c)
 
-4. **Fundamentals de JS para Magento 2**
-    - 4.1. (.....)
+4. **Manejo de Eventos e Interceptores en Magento 2**
+    - 4.1. [Creación de evento personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c27dfbd9a343df13d9029b7f82c95939dfe77ec7)
     - 4.2. (Próximamente)
 
-5. **REST API**
+5. **Fundamentals de JS para Magento 2**
     - 5.1. (.....)
     - 5.2. (Próximamente)
-    - 5.3. []()
+
+6. **REST API**
+    - 6.1. (.....)
+    - 6.2. (Próximamente)
+    - 6.3. []()
 
 ## Requerimientos para Magento 2.4.7
 
