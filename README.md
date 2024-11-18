@@ -39,7 +39,7 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
 
 4. **Manejo de Eventos e Interceptores en Magento 2**
     - 4.1. [Creación de evento personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c27dfbd9a343df13d9029b7f82c95939dfe77ec7)
-    - 4.2. (Próximamente)
+    - 4.2. [Creación de plugin before](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/95105cd8a7142b8ba3a41dadb26c7724a1d6b99c)
 
 5. **Fundamentals de JS para Magento 2**
     - 5.1. (.....)
