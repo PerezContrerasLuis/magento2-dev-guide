@@ -1,0 +1,12 @@
+<?php
+/** @var Magento\Framework\View\Element\Template $block */
+/** @var Luisdev\Blog\ViewModel\Post $postVm */
+$postVm = $block->getData('post_vm');
+$post = $postVm->getDetail();
+?>
+<div class="blog-post-detail">
+    <h1><?= $post->getTitle() ?></h1>
+    <p style="color: red; font-weight: bold;">This is the alternative template that will be displayed when the (alternate) parameter exists.</p>
+    <p><em><?= __('Created at: %1', $post->getCreatedAt()) ?></em></p>
+    <p><?= $post->getContent() ?></p>
+</div>
