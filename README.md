@@ -4,7 +4,7 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
 
 ## Índice
 
-1. **Fundamentos de Layout,blocks y templates**
+1. **Fundamentos de Creación de Módulos e Introducción a las Plantillas en Magento 2** 
     - 1.1. [Creación de módulo](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d5b29129c1d3b8c9d0f1b15d2108bb834a0761b3)
     - 1.2. [Routers and Controller](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e0eff2e7841fa1ecb3770095c0084579dc61b646)
      - 1.3. [Fabricas e inyección de dependencias](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/6a933d0fa9c00ff69f118cc2c45f740be0c11eee)
@@ -46,10 +46,14 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
     - 5.1. (.....)
     - 5.2. (Próximamente)
 
-6. **REST API**
+6. **Personalización de Temas y Estilos** 
     - 6.1. (.....)
     - 6.2. (Próximamente)
-    - 6.3. []()
+
+7. **REST API**
+    - 7.1. (.....)
+    - 7.2. (Próximamente)
+    - 7.3. []()
 
 ## Requerimientos para Magento 2.4.7
 
