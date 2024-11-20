@@ -41,6 +41,7 @@ Este repositorio está dedicado a mis notas y apuntes personales para el desarro
     - 4.1. [Creación de evento personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c27dfbd9a343df13d9029b7f82c95939dfe77ec7)
     - 4.2. [Creación de plugin before](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/95105cd8a7142b8ba3a41dadb26c7724a1d6b99c)
     - 4.3. [Creación de plugin after](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/0dc4774e5a25ca3059caa5f242aba1467a263a89)
+    - 4.4. [Creación de plugin around](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/87de48b55f905c6fdd2942a16d43964205f604a8)
 
 5. **Fundamentals de JS para Magento 2**
     - 5.1. (.....)
