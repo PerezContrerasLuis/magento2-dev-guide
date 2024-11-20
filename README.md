@@ -1,10 +1,38 @@
 # Magento 2.4.7 - Guía de Desarrollo de Módulos Personalizados
 
-Bienvenido a este repositorio personal, creado con el propósito de documentar y organizar de manera clara y accesible los conocimientos adquiridos en el desarrollo de módulos personalizados en Magento 2. Este espacio está diseñado como una guía de consulta rápida y como un recurso educativo para afianzar conceptos clave y resolver dudas durante el proceso de desarrollo.
+# Bienvenido a Mi Repositorio Personal de Magento 2
 
-Este material está en español, ya que durante mi aprendizaje he notado la limitada documentación en este idioma. Aquí se recopilan los temas más relevantes relacionados con la personalización de Magento 2, desde la creación de módulos básicos hasta la implementación de funcionalidades avanzadas como manejo de datos, eventos, interceptores, personalización de vistas y REST APIs.
+Bienvenido a este repositorio personal, creado con el propósito de documentar y organizar de manera clara y accesible los conocimientos adquiridos en el desarrollo de módulos personalizados en **Magento 2**. Este espacio está diseñado como una **guía de consulta rápida** y como un **recurso educativo** para afianzar conceptos clave y resolver dudas durante el proceso de desarrollo.
 
-Espero que este repositorio sirva como un punto de referencia confiable y eficiente para quienes deseen adentrarse en el fascinante mundo del desarrollo en Magento 2. ¡Gracias por visitar este espacio! 😊
+---
+
+### 📌 ¿Por qué en español?
+
+Este material está en **español**, ya que durante mi aprendizaje he notado la limitada documentación disponible en este idioma. Mi objetivo es facilitar el acceso a información relevante para quienes prefieren aprender y trabajar en español.
+
+---
+
+### 📖 ¿Qué encontrarás aquí?
+
+En este repositorio, se recopilan los temas más relevantes relacionados con la personalización de Magento 2, incluyendo:
+
+- Creación de módulos básicos.
+- Manejo de datos, **Model, ResourceModel y Collection**.
+- Uso de **ViewModels y Repositorios**.
+- Gestión de **Eventos e Interceptores**.
+- Implementación de **REST APIs**.
+- Personalización de **temas y estilos**.
+- Etc...
+
+Estos temas abarcan desde los fundamentos del desarrollo hasta la implementación de funcionalidades avanzadas.
+
+---
+
+### ✨ ¿Cuál es el objetivo?
+
+Espero que este repositorio sirva como un punto de referencia **confiable y eficiente** para quienes deseen adentrarse en el fascinante mundo del desarrollo en Magento 2.
+
+¡Gracias por visitar este espacio y compartir la pasión por aprender y mejorar constantemente! 😊
 
 ## Índice
 
