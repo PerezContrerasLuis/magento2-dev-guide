@@ -1,6 +1,4 @@
-# Magento 2.4.7 - Guía de Desarrollo de Módulos Personalizados
-
-# Bienvenido a Mi Repositorio Personal de Magento 2
+# Magento 2 - Guía de Desarrollo de Módulos Personalizados
 
 Bienvenido a este repositorio personal, creado con el propósito de documentar y organizar de manera clara y accesible los conocimientos adquiridos en el desarrollo de módulos personalizados en **Magento 2**. Este espacio está diseñado como una **guía de consulta rápida** y como un **recurso educativo** para afianzar conceptos clave y resolver dudas durante el proceso de desarrollo.
 
