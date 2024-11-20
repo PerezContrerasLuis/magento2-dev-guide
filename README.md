@@ -1,6 +1,10 @@
 # Magento 2.4.7 - Guía de Desarrollo de Módulos Personalizados
 
-Este repositorio está dedicado a mis notas y apuntes personales para el desarrollo de módulos personalizados en Magento 2.4.7. Sirve como una guía de consulta rápida para mejorar mis conocimientos y asegurarme de no olvidar los detalles clave a lo largo del proceso de desarrollo.
+Bienvenido a este repositorio personal, creado con el propósito de documentar y organizar de manera clara y accesible los conocimientos adquiridos en el desarrollo de módulos personalizados en Magento 2. Este espacio está diseñado como una guía de consulta rápida y como un recurso educativo para afianzar conceptos clave y resolver dudas durante el proceso de desarrollo.
+
+Este material está en español, ya que durante mi aprendizaje he notado la limitada documentación en este idioma. Aquí se recopilan los temas más relevantes relacionados con la personalización de Magento 2, desde la creación de módulos básicos hasta la implementación de funcionalidades avanzadas como manejo de datos, eventos, interceptores, personalización de vistas y REST APIs.
+
+Espero que este repositorio sirva como un punto de referencia confiable y eficiente para quienes deseen adentrarse en el fascinante mundo del desarrollo en Magento 2. ¡Gracias por visitar este espacio! 😊
 
 ## Índice
 
