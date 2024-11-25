@@ -75,7 +75,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 4.5. [Sobrescribiendo una clase usando preferencia](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/fb16ce35651e351d99805e40025f3cfc9f771660)
 
 5. **Fundamentals de JS para Magento 2**
-    - 5.1. (.....)
+    - 5.1. [Integración de JavaScript en plantillas PHTML con RequireJS](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b465abf1acf22f55bc1310868508eaaac50ecb65)
     - 5.2. (Próximamente)
 
 6. **Personalización de Temas y Estilos** 
