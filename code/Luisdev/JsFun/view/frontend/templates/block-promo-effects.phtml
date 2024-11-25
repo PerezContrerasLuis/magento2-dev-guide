@@ -1,9 +1,10 @@
 <script>
-    require(['jquery'], function($) {
+    require(['jquery',
+        'Luisdev_JsFun/js/fade-in-element'], function ($, fadeInElement) {
         'use strict';
 
-        $(function() {
-            console.log('Block promo effects in templates');
+        $(function () {
+            fadeInElement('.block-promo');
         });
     });
 </script>
