@@ -3,7 +3,10 @@ var config = {
         "*": {
             "fadeInElement": "Luisdev_JsFun/js/fade-in-element"
         }
+    },
+    "paths": {
+        "vue": "https://unpkg.com/vue@3/dist/vue.global"
     }
 };
 
-console.log("with MAP");
+console.log("with PATHS");
