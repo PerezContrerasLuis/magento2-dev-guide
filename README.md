@@ -79,6 +79,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 5.2. [Accediendo a un módulo JavaScript AMD mediante RequireJS](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/04806dc0c790046a5f73d5af7e099b2cb98dda17)
     - 5.3. [Usando map para crear un alias dentro de RequireJs](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/baa55e33d4ba7565c904a513317bbe8955bd7d37)
     - 5.4. [Usando PATHS para crear un alias dentro de RequireJs](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c962b134733554d28b0da92ad0a5bc128d42ae2f)
+    - 5.5. [Implementación de CSP](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a14275e9cf68536930536fc3de8c0bb9fb9e1082)
 
 6. **Personalización de Temas y Estilos** 
     - 6.1. (.....)
