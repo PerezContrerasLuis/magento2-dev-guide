@@ -5,8 +5,13 @@ var config = {
         }
     },
     "paths": {
-        "vue": "https://unpkg.com/vue@3/dist/vue.global"
+        "vue": "https://unpkg.com/vue@3.5.13/dist/vue.global.prod"
+    },
+    "shim": {
+        "vue": {
+            "exports": "Vue"
+        }
     }
 };
 
-console.log("with PATHS");
+console.log("with PATHS vue prod");
