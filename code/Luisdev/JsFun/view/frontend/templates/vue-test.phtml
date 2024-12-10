@@ -1,23 +1,2 @@
-<div id="app">{{ message }}</div>
-
-<script>
-    require(['vue'], function(Vue) {
-        'use strict';
-
-        if (typeof Vue !== 'undefined' && Vue.createApp) {
-            const { createApp } = Vue;
-
-            // Crear y montar la aplicación de Vue
-            createApp({
-                data() {
-                    return {
-                        message: 'Hello Vue@3.5.13!'
-                    };
-                }
-            }).mount('#app');
-        } else {
-            console.error('Vue.js failed to load. Check the Vue.js URL in requirejs-config.js.');
-        }
-
-    });
-</script>
+<div id="app"
+     data-mage-init='{ "Luisdev_JsFun/js/vue-test": { "message": "Declarative test" } }'>{{ message }}</div>
