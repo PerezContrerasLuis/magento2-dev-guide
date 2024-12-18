@@ -1,2 +1,11 @@
-<div id="app"
-     data-mage-init='{ "Luisdev_JsFun/js/vue-test": { "message": "Declarative test" } }'>{{ message }}</div>
+<div id="app">{{ message }}</div>
+
+<script type="text/x-magento-init">
+    {
+        "#app": {
+            "Luisdev_JsFun/js/vue-test": {
+                "message": "Declarative test x-magento-init"
+            }
+        }
+    }
+</script>
