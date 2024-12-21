@@ -1,10 +1,14 @@
+<?php
+/** @var \luisdev\JsFun\ViewModel\Message $messageViewModel */
+$messageViewModel = $block->getData('message_view_model');
+?>
 <div id="app">{{ message }}</div>
 
 <script type="text/x-magento-init">
     {
         "#app": {
             "Luisdev_JsFun/js/vue-test": {
-                "message": "Declarative test x-magento-init"
+                "message": "<?= $messageViewModel->getMessage()?>"
             }
         }
     }
