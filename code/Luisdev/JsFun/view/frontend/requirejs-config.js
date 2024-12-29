@@ -8,6 +8,7 @@ var config = {
         "vue": "https://unpkg.com/vue@3.5.13/dist/vue.global.prod"
     },
     "shim": {
+        "Luisdev_JsFun/js/jquery-log": ["jquery"],
         "vue": {
             "exports": "Vue"
         }

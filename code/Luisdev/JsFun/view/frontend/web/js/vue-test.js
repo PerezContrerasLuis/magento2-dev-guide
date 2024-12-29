@@ -1,3 +1,4 @@
+/*
 define(['vue'], function (Vue) {
     'use strict';
 
@@ -19,4 +20,10 @@ define(['vue'], function (Vue) {
         }
     }
 
+});
+*/
+
+define(['vue', 'jquery', 'Luisdev_JsFun/js/jquery-log'], function(Vue, $) {
+    'use strict';
+    $.log('TEST JQUERY_LOG');
 });
