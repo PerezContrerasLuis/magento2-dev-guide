@@ -1,7 +1,8 @@
 var config = {
     "map": {
         "*": {
-            "fadeInElement": "Luisdev_JsFun/js/fade-in-element"
+            "fadeInElement": "Luisdev_JsFun/js/fade-in-element",
+            "Magento_Review/js/submit-review": "Luisdev_JsFun/js/submit-review"
         }
     },
     "paths": {
