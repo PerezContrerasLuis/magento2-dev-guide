@@ -12,7 +12,8 @@ var config = {
         "vue": {
             "exports": "Vue"
         }
-    }
+    },
+    "deps": ["Luisdev_JsFun/js/every-page"]
 };
 
 console.log("with PATHS vue prod");
