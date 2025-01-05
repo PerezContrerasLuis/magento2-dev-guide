@@ -14,7 +14,14 @@ var config = {
             "exports": "Vue"
         }
     },
-    "deps": ["Luisdev_JsFun/js/every-page"]
+    "deps": ["Luisdev_JsFun/js/every-page"],
+    "config": {
+        "mixins": {
+            "Magento_Ui/js/view/messages": {
+                "Luisdev_JsFun/js/messages-mixin": true
+            }
+        }
+    }
 };
 
 console.log("with PATHS vue prod");
