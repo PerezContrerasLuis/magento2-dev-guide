@@ -89,7 +89,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 5.12. [Sobrescribir archivos o componentes JavaScript con map](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a7a122c917db4eca8f67c89f94ebd19368d2f2ff) 
     - 5.13. [Sobrescribir métodos de componentes JavaScript con mixins](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d73d2f6e439c0683c3e6336d3ae51f57dbe76512)
 6. **Personalización de Temas y Estilos** 
-    - 6.1. (.....)
+    - 6.1. [Configuración inicial para un tema personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f72c7ca68477b5d33adef35f3aafe31797fe93bd)
     - 6.2. (Próximamente)
 
 7. **REST API**
