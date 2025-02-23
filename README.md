@@ -92,6 +92,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 6.1. [Configuración inicial para un tema personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f72c7ca68477b5d33adef35f3aafe31797fe93bd)
     - 6.2. [Configuración para subir módulo personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5ad98f8b95359b15eccdba9f658283b3f5f199aa)
     - 6.3. [Definición de vista previsualización para el tema](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/22737be3b0a5fa7d105a6c87c8fe6453e3fa2842)
+    - 6.4. [Creación y activación de un diseño de página personalizado en Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b9e47c10fd19e904a26fe6304dcee0aa5ea50f6e)
 
 7. **REST API**
     - 7.1. (.....)
