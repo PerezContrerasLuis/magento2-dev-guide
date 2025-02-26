@@ -49,52 +49,52 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
      - 2.4. [Traduccion de texto de plantillas con i18n](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ae06bf8bb95ab22e627783de494281216c14721c)
      - 2.5. [Sobrescribir una plantilla de bloque existente en Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/afea5f72035db153719e1a388c163bd22de8c4ef)
 
-3. **Creación de Temas Personalizados para Magento 2** 
-    - 3.1. [Configuración inicial para un tema personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f72c7ca68477b5d33adef35f3aafe31797fe93bd)
-    - 3.2. [Configuración para subir logo módulo personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5ad98f8b95359b15eccdba9f658283b3f5f199aa)
-    - 3.3. [Definición de vista previsualización para el tema](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/22737be3b0a5fa7d105a6c87c8fe6453e3fa2842)
-    - 3.4. [Creación y activación de un diseño de página personalizado en Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b9e47c10fd19e904a26fe6304dcee0aa5ea50f6e)
+3. **Gestión y Persistencia de Datos en (BDD)**
+    - 3.1. [Creación de tabla con db_schema.xml](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a1c508792ca81858a2c928227db98f4e4f9e9d66)
+    - 3.2. [Gestión de columnas de base de datos con db_schema_whitelist](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/91c4925131846bfc0e8721258475dfee075f73e9)
+    - 3.3. [Implementación de Model, ResourceModel y Collection para gestión de datos](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/440412ef139f11ed8801bc413dcb93a438a013c7)
+    - 3.4. [Contrato de servicios DTO, repositoryInterface y repositorio](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f215e274daf245ce3cf0fe24a914d2bd776bdddb)
+    - 3.5. [Implementación de DTO en el modelo Post](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7ae3dbc18fe94a10716f70268be3d110c6a4d782)
+    - 3.6. [Usando PostRepository para leer datos con ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ef86a7eab3c07b3aff6d40531f25bf7362a30a51)
+    - 3.7. [Usando PostRepository para guardar datos con ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5a3058e3c6fd18e7a44799adb9be4674b7030f38)
+    - 3.8. [Usando PostRepository para eliminar datos con ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/15d2d013477b19237529adf9b447e8a1e31a10aa)
+    - 3.9. [Insertando datos en la tabla de blog usando Data Patch](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/12e00bd910fe25d34898e3f629f810cca21927ff)
+    - 3.10. [Exponiendo los métodos de PostRepositoryInterface como endpoints de una API REST](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/655e3f9c85661a6a1ff7b27615690c5a761699a5)
 
-4. **Gestión y Persistencia de Datos en (BDD)**
-    - 4.1. [Creación de tabla con db_schema.xml](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a1c508792ca81858a2c928227db98f4e4f9e9d66)
-    - 4.2. [Gestión de columnas de base de datos con db_schema_whitelist](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/91c4925131846bfc0e8721258475dfee075f73e9)
-    - 4.3. [Implementación de Model, ResourceModel y Collection para gestión de datos](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/440412ef139f11ed8801bc413dcb93a438a013c7)
-    - 4.4. [Contrato de servicios DTO, repositoryInterface y repositorio](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f215e274daf245ce3cf0fe24a914d2bd776bdddb)
-    - 4.5. [Implementación de DTO en el modelo Post](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7ae3dbc18fe94a10716f70268be3d110c6a4d782)
-    - 4.6. [Usando PostRepository para leer datos con ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ef86a7eab3c07b3aff6d40531f25bf7362a30a51)
-    - 4.7. [Usando PostRepository para guardar datos con ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5a3058e3c6fd18e7a44799adb9be4674b7030f38)
-    - 4.8. [Usando PostRepository para eliminar datos con ResourceModel](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/15d2d013477b19237529adf9b447e8a1e31a10aa)
-    - 4.9. [Insertando datos en la tabla de blog usando Data Patch](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/12e00bd910fe25d34898e3f629f810cca21927ff)
-    - 4.10. [Exponiendo los métodos de PostRepositoryInterface como endpoints de una API REST](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/655e3f9c85661a6a1ff7b27615690c5a761699a5)
+4. **View Models y Repositorios para Carga de Datos**
+    - 4.1. [¿Qué es un ViewModel en Magento 2 y por qué usarlo?](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2791a7e28091dfb7b20a25aed056f45339a89808)
+    - 4.2. [Pasando datos a template List mediante un ViewModel que usa Collection](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b7a4bfc1b44eccb94c92e9d5ad4756ec575c57b8)
+    - 4.3. [Pasando datos a template Sidebar mediante un ViewModel que usa Collection](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/60f0040833a62574960cbfc32247dcd7eb120a03)
+    - 4.4. [Agregando función getCount al ViewModel Post](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e53307668af48c5cc4b8e56d11ea88342c85dfa8)
+    - 4.5. [Pasando datos a template List mediante un ViewModel usando PostRepository](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e3e18f8535e9eaaddcd6561ff902859118a1609c)
 
-5. **View Models y Repositorios para Carga de Datos**
-    - 5.1. [¿Qué es un ViewModel en Magento 2 y por qué usarlo?](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2791a7e28091dfb7b20a25aed056f45339a89808)
-    - 5.2. [Pasando datos a template List mediante un ViewModel que usa Collection](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b7a4bfc1b44eccb94c92e9d5ad4756ec575c57b8)
-    - 5.3. [Pasando datos a template Sidebar mediante un ViewModel que usa Collection](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/60f0040833a62574960cbfc32247dcd7eb120a03)
-    - 5.4. [Agregando función getCount al ViewModel Post](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e53307668af48c5cc4b8e56d11ea88342c85dfa8)
-    - 5.5. [Pasando datos a template List mediante un ViewModel usando PostRepository](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e3e18f8535e9eaaddcd6561ff902859118a1609c)
+5. **Manejo de Eventos e Interceptores en Magento 2**
+    - 5.1. [Creación de evento personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c27dfbd9a343df13d9029b7f82c95939dfe77ec7)
+    - 5.2. [Creación de plugin before](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/95105cd8a7142b8ba3a41dadb26c7724a1d6b99c)
+    - 5.3. [Creación de plugin after](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/0dc4774e5a25ca3059caa5f242aba1467a263a89)
+    - 5.4. [Creación de plugin around](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/87de48b55f905c6fdd2942a16d43964205f604a8)
+    - 5.5. [Sobrescribiendo una clase usando preferencia](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/fb16ce35651e351d99805e40025f3cfc9f771660)
 
-6. **Manejo de Eventos e Interceptores en Magento 2**
-    - 6.1. [Creación de evento personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c27dfbd9a343df13d9029b7f82c95939dfe77ec7)
-    - 6.2. [Creación de plugin before](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/95105cd8a7142b8ba3a41dadb26c7724a1d6b99c)
-    - 6.3. [Creación de plugin after](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/0dc4774e5a25ca3059caa5f242aba1467a263a89)
-    - 6.4. [Creación de plugin around](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/87de48b55f905c6fdd2942a16d43964205f604a8)
-    - 6.5. [Sobrescribiendo una clase usando preferencia](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/fb16ce35651e351d99805e40025f3cfc9f771660)
+6. **Fundamentals de JS para Magento 2**
+    - 6.1. [Integración de JavaScript en plantillas PHTML con RequireJS](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b465abf1acf22f55bc1310868508eaaac50ecb65)
+    - 6.2. [Accediendo a un módulo JavaScript AMD mediante RequireJS](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/04806dc0c790046a5f73d5af7e099b2cb98dda17)
+    - 6.3. [Usando map para crear un alias dentro de RequireJs](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/baa55e33d4ba7565c904a513317bbe8955bd7d37)
+    - 6.4. [Usando PATHS para crear un alias dentro de RequireJs](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c962b134733554d28b0da92ad0a5bc128d42ae2f)
+    - 6.5. [Implementación de CSP](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a14275e9cf68536930536fc3de8c0bb9fb9e1082)
+    - 6.6. [Agregando un componente VueJs de forma imperativa](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/349e82a9c3f168ae2242c88899e72ce609eb9842)
+    - 6.7. [Agregando un componente VueJs de forma Declarativa](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/8f0d27e81758811e5b61c075f68099ea557c7bf6)
+    - 6.8. [Agregando un componente VueJs de forma Declarativa con x-magento-init](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/6f7bcc3ef41e4a78935b8205ab3f10e29f290615)
+    - 6.9. [Pasando datos desde un ViewModel a un componente JavaScript](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/92d44014ef9c0b589f67c3232da4fdfb07aa9f9d)
+    - 6.10. [Empleando shim para definir la relación entre módulos](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/8cf877bfbace13a5c524cb07bdad19eb47ed5bfa)
+    - 6.11. [Empleando deps para cargar un script global](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/33e74c424dd34109fe2b24c379e2606fd1f6203f)
+    - 6.12. [Sobrescribir archivos o componentes JavaScript con map](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a7a122c917db4eca8f67c89f94ebd19368d2f2ff) 
+    - 6.13. [Sobrescribir métodos de componentes JavaScript con mixins](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d73d2f6e439c0683c3e6336d3ae51f57dbe76512)
 
-7. **Fundamentals de JS para Magento 2**
-    - 7.1. [Integración de JavaScript en plantillas PHTML con RequireJS](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b465abf1acf22f55bc1310868508eaaac50ecb65)
-    - 7.2. [Accediendo a un módulo JavaScript AMD mediante RequireJS](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/04806dc0c790046a5f73d5af7e099b2cb98dda17)
-    - 7.3. [Usando map para crear un alias dentro de RequireJs](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/baa55e33d4ba7565c904a513317bbe8955bd7d37)
-    - 7.4. [Usando PATHS para crear un alias dentro de RequireJs](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c962b134733554d28b0da92ad0a5bc128d42ae2f)
-    - 7.5. [Implementación de CSP](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a14275e9cf68536930536fc3de8c0bb9fb9e1082)
-    - 7.6. [Agregando un componente VueJs de forma imperativa](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/349e82a9c3f168ae2242c88899e72ce609eb9842)
-    - 7.7. [Agregando un componente VueJs de forma Declarativa](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/8f0d27e81758811e5b61c075f68099ea557c7bf6)
-    - 7.8. [Agregando un componente VueJs de forma Declarativa con x-magento-init](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/6f7bcc3ef41e4a78935b8205ab3f10e29f290615)
-    - 7.9. [Pasando datos desde un ViewModel a un componente JavaScript](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/92d44014ef9c0b589f67c3232da4fdfb07aa9f9d)
-    - 7.10. [Empleando shim para definir la relación entre módulos](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/8cf877bfbace13a5c524cb07bdad19eb47ed5bfa)
-    - 7.11. [Empleando deps para cargar un script global](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/33e74c424dd34109fe2b24c379e2606fd1f6203f)
-    - 7.12. [Sobrescribir archivos o componentes JavaScript con map](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a7a122c917db4eca8f67c89f94ebd19368d2f2ff) 
-    - 7.13. [Sobrescribir métodos de componentes JavaScript con mixins](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d73d2f6e439c0683c3e6336d3ae51f57dbe76512)
+7. **Creación de Temas Personalizados para Magento 2** 
+    - 7.1. [Configuración inicial para un tema personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f72c7ca68477b5d33adef35f3aafe31797fe93bd)
+    - 7.2. [Configuración para subir logo módulo personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5ad98f8b95359b15eccdba9f658283b3f5f199aa)
+    - 7.3. [Definición de vista previsualización para el tema](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/22737be3b0a5fa7d105a6c87c8fe6453e3fa2842)
+    - 7.4. [Creación y activación de un diseño de página personalizado en Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b9e47c10fd19e904a26fe6304dcee0aa5ea50f6e)
 
 
 8. **REST API**
