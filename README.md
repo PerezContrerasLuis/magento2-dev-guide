@@ -95,6 +95,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 7.2. [Configuración para subir logo módulo personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5ad98f8b95359b15eccdba9f658283b3f5f199aa)
     - 7.3. [Definición de vista previsualización para el tema](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/22737be3b0a5fa7d105a6c87c8fe6453e3fa2842)
     - 7.4. [Creación y activación de un diseño de página personalizado en Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b9e47c10fd19e904a26fe6304dcee0aa5ea50f6e)
+    - 7.5. [Extender layout para eliminar un block](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f2505b416822906b22959a2d551963884e9d719d)
 
 
 8. **REST API**
