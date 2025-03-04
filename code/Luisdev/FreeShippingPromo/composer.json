@@ -1,0 +1,20 @@
+{
+  "name": "luisdev/module-free-shipping-promo",
+  "version": "1.0.0",
+  "description": "Module for understanding UI Components in Magento 2 for educational purposes",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "license": [
+    "Open Software License (OSL)"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Luisdev\\FreeShippingPromo\\": ""
+    }
+  }
+}
