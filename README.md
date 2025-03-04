@@ -105,7 +105,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 7.3. []()
 
 9. **Componentes UI**
-    - 9.1. (.....)
+    - 9.1. [Creación de módulo FreeShippingPromo](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3590376241a1d0ce7dc19075d090be2df1a42eb4)
     - 9.2. (Próximamente)
 
 10. **Admin Grids en magento 2**
