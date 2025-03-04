@@ -105,7 +105,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 7.3. []()
 
 9. **Componentes UI**
-    - 9.1. [¿Qué son los UI Components en Magento?]()
+    - 9.1. [¿Qué son los UI Components en Magento?](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/9bf8a232ad65229ba948a76e42fb95cd166baa5e)
     - 9.1. [Creación de módulo FreeShippingPromo](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3590376241a1d0ce7dc19075d090be2df1a42eb4)
     - 9.2. [Agregando el bloque en el encabezado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/eafa4cf8f696937732f232489261f934edddd845)
 
