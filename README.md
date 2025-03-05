@@ -109,6 +109,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 9.2. [Creación de módulo FreeShippingPromo](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3590376241a1d0ce7dc19075d090be2df1a42eb4)
     - 9.3. [Agregando el bloque en el encabezado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/eafa4cf8f696937732f232489261f934edddd845)
     - 9.4. [Agregando estilos al banner](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e8795004f73b24923b8f80c4428051242f8b0cd3)
+    - 9.5. [Creación de Componente Básico](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ab8c304b67335977fde916fce24d5d7fb790291f)
 
 10. **Admin Grids en magento 2**
     - 10.1. (.....)
