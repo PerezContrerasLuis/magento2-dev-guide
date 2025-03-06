@@ -111,6 +111,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 9.4. [Agregando estilos al banner](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e8795004f73b24923b8f80c4428051242f8b0cd3)
     - 9.5. [Creación de Componente Básico](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ab8c304b67335977fde916fce24d5d7fb790291f)
     - 9.6. [Sintaxis alternativa para configuración del componente](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ecff38742d6157bb6e25c0b8db4072395fd55bf0)
+    - 9.7. [Extendiendo la clase base uiComponent](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/375136d43a4c1735115eb6bf59a783085302f656)
 
 10. **Admin Grids en magento 2**
     - 10.1. (.....)
