@@ -114,6 +114,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 9.7. [Extendiendo la clase base uiComponent](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/375136d43a4c1735115eb6bf59a783085302f656)
     - 9.9. [Entendiendo las propiedades defaults](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/cb3c05520e29bb574ad235c95bb09b17f2b5e0e8)
     - 9.10. [Vinculación de datos en UI Components con data-bind](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/baa386ff67ae0f50dc3c93481a5a738d63ac219b)
+    - 9.11. [Crear una plantilla KnockoutJS](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/59a2bf1db63aa6e85e41b88b508228487aa4471e)
 
 10. **Admin Grids en magento 2**
     - 10.1. (.....)
