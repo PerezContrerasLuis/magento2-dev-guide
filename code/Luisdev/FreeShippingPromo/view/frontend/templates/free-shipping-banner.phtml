@@ -9,13 +9,7 @@
 <script type="text/x-magento-init">
     {
         "#free-shipping-banner": {
-            "Magento_Ui/js/core/app": {
-                "components":{
-                    "free-shipping-banner":{
-                        "component":"Luisdev_FreeShippingPromo/js/free-shipping-banner"
-                    }
-                }
-            }
+            "Magento_Ui/js/core/app": <?= $block->getJsLayout() ?>
         }
     }
 </script>

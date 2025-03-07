@@ -3,7 +3,6 @@ define(['uiComponent'], function (component) {
     console.log('Basic Free shipping component UI is loaded');
     return component.extend({
         defaults: {
-            message: 'Default Message',
             template: 'Luisdev_FreeShippingPromo/free-shipping-banner'
         },
         initialize: function () {
