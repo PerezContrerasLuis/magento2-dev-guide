@@ -4,7 +4,10 @@ define(['uiComponent'], function (component) {
     return component.extend({
         defaults: {
             subtotal : 30.00,
-            template: 'Luisdev_FreeShippingPromo/free-shipping-banner'
+            template: 'Luisdev_FreeShippingPromo/free-shipping-banner',
+            tracks: {
+                subtotal: true
+            }
         },
         initialize: function () {
             this._super();
