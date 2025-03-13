@@ -118,6 +118,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 9.12. [Fallbacks y sobrescritura de propiedades en UI Components](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/db472b654585fe9846dd4fc2445978e8f5f435bc)
     - 9.13. [Vinculando propiedades con el DOM](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/61ce7fcff5dc1b0d7f6d2c7ec0d81fe6e002d74b)
     - 9.14. [Tracks en UI Components](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d9b8f158909a8047d7581e0bdf333421e035b2eb) 
+    - 9.15. [Obteniendo datos del subtotal del carrito](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b088c6f8c42d0c93c76a36a651a2a36a5c1bafa5)
 
 10. **Admin Grids en magento 2**
     - 10.1. (.....)
