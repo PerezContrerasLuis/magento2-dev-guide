@@ -1,4 +1,4 @@
-define(['uiComponent','Magento_Customer/js/customer-data'], function (component,customerData) {
+define(['uiComponent','Magento_Customer/js/customer-data','underscore'], function (component,customerData,_) {
     'use strict';
     console.log('Basic Free shipping component UI is loaded');
     return component.extend({
@@ -11,12 +11,14 @@ define(['uiComponent','Magento_Customer/js/customer-data'], function (component,
         },
         initialize: function () {
             this._super();
-            
+
             var self = this;
             var cart = customerData.get('cart');
 
             customerData.getInitCustomerData().done(function() {
-                self.subtotal = parseFloat(cart().subtotalAmount);
+                if (!_.isEmpty(cart()) && !_.isUndefined(cart().subtotalAmount)) {
+                    self.subtotal = parseFloat(cart().subtotalAmount);
+                }
             });
         },
         formatCurrency : function (value){
