@@ -3,9 +3,11 @@ define(['uiComponent','Magento_Customer/js/customer-data','underscore'], functio
     console.log('Basic Free shipping component UI is loaded');
     return component.extend({
         defaults: {
+            message: '${ $.messageDefault }',
             subtotal : 0.00,
             template: 'Luisdev_FreeShippingPromo/free-shipping-banner',
             tracks: {
+                message: true,
                 subtotal: true
             }
         },
