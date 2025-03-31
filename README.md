@@ -121,6 +121,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 9.15. [Obteniendo datos del subtotal del carrito](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b088c6f8c42d0c93c76a36a651a2a36a5c1bafa5)
     - 9.16. [Suscripción a customerData.getCart](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a8f5f0a8d58a0030756e89296ccb34a1041ecc96)
     - 9.17. [Acceder a propiedades de UI Component con template literals](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2db948ae8a24d2d3122bf2d0fa938b30b1b4af94)
+    - 9.18. [Crear propiedades computadas con Knockout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ddf1ad176c395adc53f8ba569c934270f334b0dc)
 
 10. **Admin Grids en magento 2**
     - 10.1. (.....)
