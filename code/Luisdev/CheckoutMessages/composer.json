@@ -1,0 +1,20 @@
+{
+  "name": "luisdev/module-checkout-messages",
+  "version": "1.0.0",
+  "description": "Module to understand how to extend and override UI Components",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "license": [
+    "Open Software License (OSL)"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Luisdev\\CheckoutMessages\\": ""
+    }
+  }
+}
