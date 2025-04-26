@@ -123,7 +123,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 9.17. [Acceder a propiedades de UI Component con template literals](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2db948ae8a24d2d3122bf2d0fa938b30b1b4af94)
     - 9.18. [Crear propiedades computadas con Knockout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ddf1ad176c395adc53f8ba569c934270f334b0dc)
     - 9.19. **Extensión y sobrescritura de Componentes UI**
-        - 9.19.1. [Add or override UI Component methods](...)
+        - 9.19.1. [Sobrescribir métodos de UI Component](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/6393c240435bc70ee2e21f4bda96f09ddbbfc6f4)
         - 9.19.2. [Uso de mixins y extensiones personalizadas](...)
 
     - 9.20. **Communication between UI Components**
