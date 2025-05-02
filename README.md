@@ -97,6 +97,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 7.4. [Creación y activación de un diseño de página personalizado en Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b9e47c10fd19e904a26fe6304dcee0aa5ea50f6e)
     - 7.5. [Extender layout para eliminar un block](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f2505b416822906b22959a2d551963884e9d719d)
     - 7.6. [Sobrescribir un Layout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/32655024168ad72b2894e330e6935872451a694f)
+    - 7.7. [Activar un diseño de página (Page Layout) para un handle específico](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2f9dfb6aebe29752fdc7d3fcdfef547465996902)
 
 
 8. **REST API**
