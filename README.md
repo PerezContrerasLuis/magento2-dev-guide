@@ -98,6 +98,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 7.5. [Extender layout para eliminar un block](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/f2505b416822906b22959a2d551963884e9d719d)
     - 7.6. [Sobrescribir un Layout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/32655024168ad72b2894e330e6935872451a694f)
     - 7.7. [Activar un diseño de página (Page Layout) para un handle específico](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2f9dfb6aebe29752fdc7d3fcdfef547465996902)
+    - 7.8. [Creación de Container, block y template para un footer](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a623dfc8930156fc1ac0173a89bf149aa251d739)
 
 
 8. **REST API**
