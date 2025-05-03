@@ -8,5 +8,10 @@
                 <argument name="logo_height" xsi:type="string">61</argument>
             </arguments>
         </referenceBlock>
+        <referenceContainer name="footer">
+            <container name="phone-number-container" htmlTag="div" htmlId="phone-number-container">
+                <block name="phone-number" template="Ladi_Theme::phone-number.phtml" />
+            </container>
+        </referenceContainer>
     </body>
 </page>
