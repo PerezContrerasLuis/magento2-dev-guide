@@ -10,7 +10,11 @@
         </referenceBlock>
         <referenceContainer name="footer">
             <container name="phone-number-container" htmlTag="div" htmlId="phone-number-container">
-                <block name="phone-number" template="Ladi_Theme::phone-number.phtml" />
+                <block name="phone-number" template="Ladi_Theme::phone-number.phtml">
+                    <arguments>
+                        <argument name="phone_number_view_model" xsi:type="object">Ladi\Theme\Viewmodel\PhoneNumber</argument>
+                    </arguments>
+                </block>
             </container>
         </referenceContainer>
     </body>
