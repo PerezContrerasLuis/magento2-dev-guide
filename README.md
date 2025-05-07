@@ -101,6 +101,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 7.8. [Creación de Container, block y template para un footer](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a623dfc8930156fc1ac0173a89bf149aa251d739)
     - 7.9. [Módulo para agregar funcionalidad al tema personalizado de Ladi.](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c3d69c32f08cf3dd49034358637578ee94af8f99)
     - 7.10. [Implementación de ViewModel en un template](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c4b4026aac647be0353f58f5ca7e664f11f96a57)
+    - 7.11. [Agregar información a la página del carrito de compras](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3a64edfd247df08f5d7d4d90d66d331d7f6d4827)
 
 
 8. **REST API**
