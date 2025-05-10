@@ -32,6 +32,7 @@ $productList = $block->getProductListHtml();
         <div>
             <?= $block->escapeHtml($block->getNoResultText() ? $block->getNoResultText() : __('Your search returned no results.')) ?>
             <h2><?= __("We recommend trying with different words.. ^_^") ?></h2>
+            <p><img src="<?= $block->getViewFileUrl('Magento_CatalogSearch::images/robonotresults.png') ?>" alt="<?= __('robot results') ?>"/></p
             <?= /* @noEscape */ $block->getAdditionalHtml() ?>
             <?php if ($messages = $block->getNoteMessages()) : ?>
                 <?php foreach ($messages as $message) : ?>
