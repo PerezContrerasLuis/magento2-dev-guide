@@ -105,7 +105,8 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 7.12. [Cargar un bloque mediante Layout sin usar Widgets](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/882eb7762f99357643ea81c0b648dd9ce72a9278)
     - 7.13. [Sobrescribiendo una plantilla (template) desde el tema](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/0fb57e864a9c36a0a54eab4feb77a4154c20463d)
     - 7.14. [Insertar imagen en un template](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/4097bb71d94a255a97f91de19e2ef8fa12068265)
-    - 4.15. [Agregar librería EXTERNA (Animate on Scroll - AOS)](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/6ef28b514474dc8a75a19d202886e21e962767c6)
+    - 7.15. [Agregar librería EXTERNA (Animate on Scroll - AOS)](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/6ef28b514474dc8a75a19d202886e21e962767c6)
+    - 7.16. [Sobrescribir un archivo LESS en Magento 2](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e9caadb34c870b266c00d1c217e03cee6b015d5d)
 
 
 8. **REST API**
