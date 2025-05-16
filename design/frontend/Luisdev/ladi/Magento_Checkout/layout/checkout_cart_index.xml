@@ -2,7 +2,7 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
         <referenceContainer name="cart.summary">
-            <container name="hours-container" htmlTag="div" htmlId="store-hours-container" before="copyright" after="-">
+            <!--<container name="hours-container" htmlTag="div" htmlId="store-hours-container" before="copyright" after="-">
                 <block name="hours" template="Ladi_Theme::hours.phtml" ifconfig="general/store_information/hours" before="-">
                     <arguments>
                         <argument name="hours_view_model" xsi:type="object">Ladi\Theme\ViewModel\Hours</argument>
@@ -12,7 +12,9 @@
                     <arguments>
                         <argument name="phone_number_view_model" xsi:type="object">Ladi\Theme\ViewModel\PhoneNumber</argument>
                     </arguments>
-                </block>
+                </block> -->
+            <container name="shipping-notice-container" htmlTag="div" htmlClass="shipping-notice-container">
+                <block name="shipping-notice" template="Ladi_Theme::shipping-notice.phtml"/>
             </container>
         </referenceContainer>
     </body>
