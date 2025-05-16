@@ -107,8 +107,9 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 7.14. [Insertar imagen en un template](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/4097bb71d94a255a97f91de19e2ef8fa12068265)
     - 7.15. [Agregar librería EXTERNA (Animate on Scroll - AOS)](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/6ef28b514474dc8a75a19d202886e21e962767c6)
     - 7.16. [Sobrescribir un archivo LESS en Magento 2](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e9caadb34c870b266c00d1c217e03cee6b015d5d)
-    - 7.18. [Sobrescribir el archivo LESS de un módulo en Magento 2](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a29d50d7113fdda8a2392ba2d348992ce1a3e214)
-    - 7.29. [Extender estilos de un módulo en Magento 2 con _extend.less](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/4ea6d05e3e944abe1267207ebf14423df77aaa2c)
+    - 7.17. [Sobrescribir el archivo LESS de un módulo en Magento 2](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/a29d50d7113fdda8a2392ba2d348992ce1a3e214)
+    - 7.18. [Extender estilos de un módulo en Magento 2 con _extend.less](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/4ea6d05e3e944abe1267207ebf14423df77aaa2c)
+    - 7.19. [Implementando librería UI para crear un tooltip con un mixin](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7c9e06311e8cf188499e97cb81e9abad6cf9b79b)
 
 
 8. **REST API**
