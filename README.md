@@ -140,10 +140,6 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
         - 9.19.2. [Sobrescribiendo el template de un UI Component](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/fd840d1b99471576efea0d85ba1ed71ae46bb3b4)
         - 9.19.3. [Sobrescribir un template de UI Component con Static Path Mapping](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7dbe26696d7a762eadeb902c0b5795db00d802d0)
 
-    - 9.20. **Communication between UI Components**
-        - 9.20.1. [Observables compartidos entre componentes](...)
-        - 9.20.2. [Uso de eventos personalizados para comunicación](...)
-
 10. **Admin Grids en magento 2**
     - 10.1. (.....)
     - 10.2. (Próximamente)
