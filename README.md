@@ -138,6 +138,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 9.19. **Extensión y sobrescritura de Componentes UI**
         - 9.19.1. [Sobrescribir métodos de UI Component](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/6393c240435bc70ee2e21f4bda96f09ddbbfc6f4)
         - 9.19.2. [Sobrescribiendo el template de un UI Component](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/fd840d1b99471576efea0d85ba1ed71ae46bb3b4)
+        - 9.19.3. [Sobrescribir un template de UI Component con Static Path Mapping](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7dbe26696d7a762eadeb902c0b5795db00d802d0)
 
     - 9.20. **Communication between UI Components**
         - 9.20.1. [Observables compartidos entre componentes](...)
