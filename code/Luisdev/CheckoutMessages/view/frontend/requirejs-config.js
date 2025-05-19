@@ -5,5 +5,10 @@ var config = {
                 'Luisdev_CheckoutMessages/js/view/summary/cart-items-mixin': true
             }
         }
+    },
+    map: {
+        '*': {
+            'Magento_Checkout/template/sidebar': 'Luisdev_CheckoutMessages/template/sidebar'
+        }
     }
 };
