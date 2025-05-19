@@ -141,7 +141,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
         - 9.19.3. [Sobrescribir un template de UI Component con Static Path Mapping](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7dbe26696d7a762eadeb902c0b5795db00d802d0)
 
 10. **Admin Grids en magento 2**
-    - 10.1. (.....)
+    - 10.1. [Creando (ACL) Lista de Control de Acceso](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2a3dc3c31fe86f84061f0bd06de3b30a8c1e6d60)
     - 10.2. (Próximamente)
 
 11. **Personalizando el Checkout en magento 2**
