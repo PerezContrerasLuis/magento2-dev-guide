@@ -144,7 +144,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 10.1. [Creando (ACL) Lista de Control de Acceso](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/2a3dc3c31fe86f84061f0bd06de3b30a8c1e6d60)
     - 10.2. [Creando el elemento menú en el admin](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/eb32c7ac2fabde7604c765e8a83c3d4ff5e4d4f8)
     - 10.3. [Creación de Controlador y Ruta Admin](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/679c6bf0f05bd79517c35c08794992d6fd3fd507)
-    - 10.4. []()
+    - 10.4. [Configuración del modelo de datos](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3740eee1b19ecaac82e23426ad12eea251aec634)
     - 10.5. []()
     - 10.6. []()
     - 10.7. []()
