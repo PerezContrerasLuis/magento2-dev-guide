@@ -146,7 +146,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 10.3. [Creación de Controlador y Ruta Admin](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/679c6bf0f05bd79517c35c08794992d6fd3fd507)
     - 10.4. [Configuración del modelo de datos](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3740eee1b19ecaac82e23426ad12eea251aec634)
     - 10.5. [Crear tabla en la base de datos con Declarative Schema](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/9bb4f2800b5ec9089e0b80d175cc21e3607bf757)
-    - 10.6. []()
+    - 10.6. [Insertando datos en una tabla](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/4240b85a34dfc1a29e822c6f29f7d5230eccd79e)
     - 10.7. []()
     - 10.8. []()
     - 10.9. []()
