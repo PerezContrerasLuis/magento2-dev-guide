@@ -56,5 +56,6 @@
                 <label translate="true">Updated at</label>
             </settings>
         </column>
+        <actionsColumn name="actions" class="Luisdev\Minerva\Ui\Component\Listing\Column\Actions"/>∫
     </columns>
 </listing>
