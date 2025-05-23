@@ -148,7 +148,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 10.5. [Crear tabla en la base de datos con Declarative Schema](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/9bb4f2800b5ec9089e0b80d175cc21e3607bf757)
     - 10.6. [Insertando datos en una tabla](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/4240b85a34dfc1a29e822c6f29f7d5230eccd79e)
     - 10.7. [Creando clase virtual para el Grid Collection](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/50b699ee8502d5344814f1ab79209f033122595b)
-    - 10.8. []()
+    - 10.8. [Creacion del admin grid Simple](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/51e9859031485b96e4262c2e2f2baa3addf87fad)
     - 10.9. []()
     - 10.10. []()
     - 10.11. []()
