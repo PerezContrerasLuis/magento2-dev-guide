@@ -24,6 +24,18 @@
         </dataProvider>
     </dataSource>
     <columns name="luisdev_minerva_faq_columns">
+        <settings>
+            <childDefaults>
+                <param name="fieldAction" xsi:type="array">
+                    <item name="provider" xsi:type="string">luisdev_minerva_faq_listing.luisdev_minerva_faq_listing.luisdev_minerva_faq_columns.actions</item>
+                    <item name="target" xsi:type="string">applyAction</item>
+                    <item name="params" xsi:type="array">
+                        <item name="0" xsi:type="string">edit</item>
+                        <item name="1" xsi:type="string">${ $.$data.rowIndex }</item>
+                    </item>
+                </param>
+            </childDefaults>
+        </settings>
         <column name="id">
             <settings>
                 <label translate="true">ID</label>
@@ -56,6 +68,6 @@
                 <label translate="true">Updated at</label>
             </settings>
         </column>
-        <actionsColumn name="actions" class="Luisdev\Minerva\Ui\Component\Listing\Column\Actions"/>∫
+        <actionsColumn name="actions" class="Luisdev\Minerva\Ui\Component\Listing\Column\Actions"/>
     </columns>
 </listing>
