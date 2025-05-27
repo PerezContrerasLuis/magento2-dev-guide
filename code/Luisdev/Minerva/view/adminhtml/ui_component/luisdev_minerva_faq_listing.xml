@@ -14,6 +14,9 @@
     <dataSource name="luisdev_minerva_faq_listing_data_source" component="Magento_Ui/js/grid/provider">
         <settings>
             <updateUrl path="mui/index/render"/>
+            <storageConfig>
+                <param name="indexField" xsi:type="string">id</param>
+            </storageConfig>
         </settings>
         <aclResource>luisdev_Minerva::faq</aclResource>
         <dataProvider name="luisdev_minerva_faq_listing_data_source" class="Magento\Framework\View\Element\UiComponent\DataProvider\DataProvider">
@@ -29,6 +32,16 @@
         </settings>
         <paging name="listing_paging"/>
         <columnsControls name="columns_controls"/>
+        <bookmark name="bookmarks"/>
+        <filters name="listing_filters">
+            <argument name="data" xsi:type="array">
+                <item name="config" xsi:type="array">
+                    <item name="applied" xsi:type="array">
+                        <item name="is_published" xsi:type="string">1</item>
+                    </item>
+                </item>
+            </argument>
+        </filters>
     </listingToolbar>
     <columns name="luisdev_minerva_faq_columns">
         <settings>
@@ -46,16 +59,19 @@
         <column name="id">
             <settings>
                 <label translate="true">ID</label>
+                <filter>textRange</filter>
             </settings>
         </column>
         <column name="question">
             <settings>
                 <label translate="true">Question</label>
+                <filter>text</filter>
             </settings>
         </column>
         <column name="answer">
             <settings>
                 <label translate="true">Answer</label>
+                <filter>text</filter>
             </settings>
         </column>
         <column name="is_published" component="Magento_Ui/js/grid/columns/select">
@@ -63,16 +79,20 @@
                 <label translate="true">Is Published</label>
                 <options class="Magento\Config\Model\Config\Source\Yesno"/>
                 <dataType>select</dataType>
+                <sorting>desc</sorting>
+                <filter>select</filter>
             </settings>
         </column>
         <column name="created_at" component="Magento_Ui/js/grid/columns/date">
             <settings>
                 <label translate="true">Created at</label>
+                <filter>dateRange</filter>
             </settings>
         </column>
         <column name="updated_at" component="Magento_Ui/js/grid/columns/date">
             <settings>
                 <label translate="true">Updated at</label>
+                <filter>dateRange</filter>
             </settings>
         </column>
         <actionsColumn name="actions" class="Luisdev\Minerva\Ui\Component\Listing\Column\Actions"/>
