@@ -155,7 +155,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 10.12. [Controlador para Eliminar Registros en el Admin Grid](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/c2a1d6fd7bfe16e724205f09b19d78bd9f2dd295)
     - 10.13. [Hacer clic en una fila para editar en el grid del administrador](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/bf119256e3fce4dea441b8234cf2a4d2efdffdba)
     - 10.14. [Mejoras básicas para el grid del administrador](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e1a2b4d1c655f8cc24e22a553dddbe2611a1b7e7)
-    - 10.15. []()
+    - 10.15. [Mejoras básicas para el grid del administrador 2](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/43ab600191b92842c4431595471377d36c3b9155)
     - 10.16. []()
     - 10.17. []()
     - 10.18. []()
