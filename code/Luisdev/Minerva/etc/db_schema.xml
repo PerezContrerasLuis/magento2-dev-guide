@@ -10,7 +10,7 @@
         <constraint xsi:type="primary" referenceId="PRIMARY">
             <column name="id"/>
         </constraint>
-        <index referenceId="MACADEMY_MINERVA_FAQ_QUESTION" indexType="fulltext">
+        <index referenceId="LUISDEV_MINERVA_FAQ_QUESTION" indexType="fulltext">
             <column name="question"/>
         </index>
     </table>
