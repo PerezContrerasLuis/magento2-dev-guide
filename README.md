@@ -160,7 +160,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 10.17. [Botón y controlador para agregar un nuevo registro](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d4e328bed547abc698881eaa96081aa101cfbed6)
     - 10.18. [****** PENDIENTE ********** Formulario para agergar registro]()
     - 10.19. [Agregando la eliminación masiva para el grid](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/cdcfb95bb460aa8b5a562733592068a62bc03328)
-    - 10.20. []()
+    - 10.20. [Creacion del DataProvider para UIComponent](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d9d38e4b8813be02825f7548817d1f1779c6986d)
     - 10.21. []()
     - 10.22. []()
     - 10.23. []()
