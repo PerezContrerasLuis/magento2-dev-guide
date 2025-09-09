@@ -164,7 +164,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 10.21. [Renderizar el formulario en el admin con layout XML](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5abe46a22b39eb54287c903a9756d5067da00d8b)
     - 10.22. [Estructura XML del UI Component para el formulario de FAQs](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/790aba6538221d1ea36e8a87e99ec7784994299f)
     - 10.23. [Creando botón “Guardar” para el formulario de FAQ en el admin](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5a101567c6a60e50cae1f183692123631431461b)
-    - 10.24. []()
+    - 10.24. [Creando controlador Save para FAQ en el Admin](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/37ee35a635b637e63493c01d083a694ec762a56c)
     - 10.25. []()
     - 10.26. []()
     - 10.27. []()
