@@ -7,6 +7,9 @@
         <item name="template" xsi:type="string">templates/form/collapsible</item>
     </argument>
     <settings>
+         <buttons>
+            <button name="save" class="Luisdev\Minerva\Block\Adminhtml\Faq\Edit\Button\Save"/>
+        </buttons>
         <namespace>luisdev_minerva_faq_form</namespace>
         <dataScope>data</dataScope>
         <deps>
@@ -19,6 +22,9 @@
                 <item name="component" xsi:type="string">Magento_Ui/js/form/provider</item>
             </item>
         </argument>
+        <settings>
+            <submitUrl path="*/*/save"/>
+        </settings>
         <dataProvider class="Luisdev\Minerva\Ui\DataProvider\Faq" name="luisdev_minerva_faq_data_source">
             <settings>
                 <requestFieldName>id</requestFieldName>
