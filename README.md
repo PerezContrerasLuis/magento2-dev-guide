@@ -169,7 +169,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
   
 
 11. **Personalizando el Checkout en magento 2**
-    - 11.1. (.....)
+    - 11.1. (Creación de módulo)[https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d67ec3e3d788e480c8b3851b26b6fad3eee288e4]
     - 11.2. (Próximamente)
 
 12. **Entendiendo Knockout en magento 2**
