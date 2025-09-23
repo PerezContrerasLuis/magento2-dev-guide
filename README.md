@@ -170,8 +170,8 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
 
 11. **Personalizando el Checkout en magento 2**
     - 11.1. [Creación de módulo](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/d67ec3e3d788e480c8b3851b26b6fad3eee288e4)
-    - 11.2. [Reordenar los campos del formulario del checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/10941c114cd6c944ef27bde0755f4c60eed685ed)
-    - 11.3. []()
+    - 11.2. [Reordenar los campos del formulario del checkout con XML](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/10941c114cd6c944ef27bde0755f4c60eed685ed)
+    - 11.3. [Reordenar campos de Billing Address con un Layout Processor](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e5fca8b5060ec21626bea006c267870b89f16af8)
     - 11.4. []()
     - 11.5. []()
     - 11.6. []()
