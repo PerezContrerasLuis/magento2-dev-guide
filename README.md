@@ -178,7 +178,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 11.6. [Agregar un nuevo paso al checkout con stepNavigator](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/aa30734314dd756e20722d4573e75a414dbe237d)
     - 11.6. [Agregar un botón “Next” para avanzar en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/822de2081d46363ceb0fa2ce2dd4ad6305071084)
     - 11.6. [Mover el componente de Email a un nuevo paso del checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/677ab64a887ed9d3a724ebd58166babcaaed7693)
-    - 11.6. []()
+    - 11.6. [Deshabilitar un componente duplicado en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3e43e2aeeb7f7f93bfb8b5ea94b4937fde8e40af)
     - 11.6. []()
     - 11.6. []()
     - 11.6. []()
