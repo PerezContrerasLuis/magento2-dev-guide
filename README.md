@@ -174,7 +174,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 11.3. [Reordenar campos de Billing Address con un Layout Processor](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e5fca8b5060ec21626bea006c267870b89f16af8)
     - 11.4. [Simplificar la dirección en el checkout con configuración por defecto](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/5a384c0950fb366a0228278f582326e60a76868f)
     - 11.5. [Validar el campo de teléfono en el checkout con reglas de Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/dd8ef2bda65589295112e2452a7e7775799f0d6a)
-    - 11.6. []()
+    - 11.6. [Máscara de entrada para el campo teléfono en checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/9f7ea148cf43cb06a09170300430038a910ec601)
     - 11.6. []()
     - 11.6. []()
     - 11.6. []()
