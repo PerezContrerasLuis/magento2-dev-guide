@@ -181,9 +181,17 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 11.10. [Deshabilitar un componente duplicado en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3e43e2aeeb7f7f93bfb8b5ea94b4937fde8e40af)
     - 11.11. [Validar el campo de email antes de avanzar en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ff19723199f8abda47377b9e3e07feb8b9e6d994)
     - 11.12. [Usar el validador de email del núcleo de Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/8db618ce1375ce6a940460113b7fe0cc27f62202)
-    - 11.13. []()
+    - 11.13. Modificando componentes y plantillas del checkout
+        - 11.13.1 []()
+        - 11.13.2 []()
+        - 11.13.3 []()
+        - 11.13.4 []()
+        - 11.13.5 []()
+        - 11.13.6 []()
+        - 11.13.7 []()
+        - 11.13.8 []()
+        - 11.13.9 []()
     - 11.14. []()
-    - 11.15. []()
 
 12. **Entendiendo Knockout en magento 2**
     - 12.1. (.....)
