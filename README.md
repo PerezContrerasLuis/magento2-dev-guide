@@ -180,7 +180,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 11.9. [Mover el componente de Email a un nuevo paso del checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/677ab64a887ed9d3a724ebd58166babcaaed7693)
     - 11.10. [Deshabilitar un componente duplicado en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3e43e2aeeb7f7f93bfb8b5ea94b4937fde8e40af)
     - 11.11. [Validar el campo de email antes de avanzar en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ff19723199f8abda47377b9e3e07feb8b9e6d994)
-    - 11.12. []()
+    - 11.12. [Usar el validador de email del núcleo de Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/8db618ce1375ce6a940460113b7fe0cc27f62202)
     - 11.13. []()
     - 11.14. []()
     - 11.15. []()
