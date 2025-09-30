@@ -179,7 +179,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 11.6. [Agregar un botón “Next” para avanzar en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/822de2081d46363ceb0fa2ce2dd4ad6305071084)
     - 11.6. [Mover el componente de Email a un nuevo paso del checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/677ab64a887ed9d3a724ebd58166babcaaed7693)
     - 11.6. [Deshabilitar un componente duplicado en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/3e43e2aeeb7f7f93bfb8b5ea94b4937fde8e40af)
-    - 11.6. []()
+    - 11.6. [Validar el campo de email antes de avanzar en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ff19723199f8abda47377b9e3e07feb8b9e6d994)
     - 11.6. []()
     - 11.6. []()
     - 11.6. []()
