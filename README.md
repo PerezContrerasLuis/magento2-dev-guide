@@ -182,7 +182,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
     - 11.11. [Validar el campo de email antes de avanzar en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/ff19723199f8abda47377b9e3e07feb8b9e6d994)
     - 11.12. [Usar el validador de email del núcleo de Magento](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/8db618ce1375ce6a940460113b7fe0cc27f62202)
     - 11.13. Modificando componentes y plantillas del checkout
-        - 11.13.1 []()
+        - 11.13.1 [Hacer más visible el campo de descuento en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/e800e19d6ef051b47851854e018bdaca5293665d)
         - 11.13.2 []()
         - 11.13.3 []()
         - 11.13.4 []()
