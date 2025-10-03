@@ -193,7 +193,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
         - 11.14.5 [Dar alcance al atributo de dirección de envío como un atributo personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/33d3ba1ac04a9b6af025a09c2eea53377e109c5f)
         - 11.14.6 [Conectando un atributo personalizado con la dirección de envío](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b2d5db67a2f5a3626541f8e5c3bf279ca475cf50)
         - 11.14.7 [Conectando el atributo personalizado como un Extension Attribute](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/1704a75ead1755f784b6b6b92615294bd7a741c6)
-        - 11.14.8 []()
+        - 11.14.8 [Creando columnas en la base de datos para guardar atributos personalizados](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7b86ff1aa5eff22383c1542ae5d99d7b83454705)
         - 11.14.9 []()
 
 12. **Entendiendo Knockout en magento 2**
