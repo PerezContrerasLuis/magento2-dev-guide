@@ -4,6 +4,7 @@
         <arguments>
             <argument name="layoutProcessors" xsi:type="array">
                 <item name="Luisdev_customcheckout_checkout_layout_processor_updateaddresssortorder" xsi:type="object">Luisdev\CustomCheckout\Block\Checkout\LayoutProcessor\UpdateAddressSortOrder</item>
+                <item name="Luisdev_customcheckout_checkout_layout_processor_addressclassificationattribute" xsi:type="object">Luisdev\CustomCheckout\Block\Checkout\LayoutProcessor\AddressClassificationAttribute</item>
             </argument>
         </arguments>
     </type>
