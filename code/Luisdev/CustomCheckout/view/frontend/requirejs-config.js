@@ -14,4 +14,5 @@ let config = {
                 'Luisdev_CustomCheckout/js/action/set-shipping-information-mixin': true
             }
         }
+    }  
 };
