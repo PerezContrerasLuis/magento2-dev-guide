@@ -192,7 +192,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
         - 11.14.4 [Cómo se (renderizan) los atributos personalizados de cliente en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/45308721204792a76e53002abb3883cc11dad112)
         - 11.14.5 [Dar alcance al atributo de dirección de envío como un atributo personalizado](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/33d3ba1ac04a9b6af025a09c2eea53377e109c5f)
         - 11.14.6 [Conectando un atributo personalizado con la dirección de envío](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b2d5db67a2f5a3626541f8e5c3bf279ca475cf50)
-        - 11.14.7 []()
+        - 11.14.7 [Conectando el atributo personalizado como un Extension Attribute](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/1704a75ead1755f784b6b6b92615294bd7a741c6)
         - 11.14.8 []()
         - 11.14.9 []()
 
