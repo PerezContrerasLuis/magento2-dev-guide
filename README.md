@@ -192,6 +192,9 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
         - 11.14.4 []()
         - 11.14.5 []()
         - 11.14.6 []()
+        - 11.14.7 []()
+        - 11.14.8 []()
+        - 11.14.9 []()
 
 12. **Entendiendo Knockout en magento 2**
     - 12.1. (.....)
