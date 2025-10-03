@@ -186,7 +186,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
         - 11.13.2 [Mover un componente a otra región del checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/6e672b30cc5b857701c61449fa879014d4034ff6)
         - 11.13.3 [Método alternativo para sobrescribir plantillas Knockout.js](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7ae8d5fbceb384f54c37e7bcdcdfd35dcc2aafba)
     - 11.14. Atributos personalizados de la dirección de envío
-        - 11.14.1 []()
+        - 11.14.1 [Crear un nuevo atributo EAV para la dirección del cliente](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/33eb1bff2f310ade764be451e8baf65cb2446ab6)
         - 11.14.2 []()
         - 11.14.3 []()
         - 11.14.4 []()
