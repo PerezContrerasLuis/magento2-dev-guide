@@ -189,7 +189,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
         - 11.14.1 [Crear un nuevo atributo EAV para la dirección del cliente](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/33eb1bff2f310ade764be451e8baf65cb2446ab6)
         - 11.14.2 [¿Qué es “EAV” y por qué Magento lo usa?](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7c5e07359387ccb3d3638f54dc64edef4c675d99)
         - 11.14.3 [Actualizar la plantilla HTML de direcciones para mostrar un nuevo atributo](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/b0121fb90ffa6e9cad139667fea0fa4b33d90ef9)
-        - 11.14.4 []()
+        - 11.14.4 [Cómo se (renderizan) los atributos personalizados de cliente en el checkout](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/45308721204792a76e53002abb3883cc11dad112)
         - 11.14.5 []()
         - 11.14.6 []()
         - 11.14.7 []()
