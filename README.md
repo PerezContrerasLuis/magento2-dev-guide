@@ -196,7 +196,7 @@ Espero que este repositorio sirva como un punto de referencia **confiable y efic
         - 11.14.8 [Creando columnas en la base de datos para guardar atributos personalizados](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/7b86ff1aa5eff22383c1542ae5d99d7b83454705)
         - 11.14.9 [Guardando el atributo personalizado en la base de datos](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/bf9a474d583d9b0df0ed288d983cae6c3ef157b2)
         - 11.14.10 [Ocultar un atributo personalizado en la dirección de facturación](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/60a1cb4c8d8471c04ab5cc3c6d72e4a40e42df11)
-        - 11.14.11 []()
+        - 11.14.11 [Ocultar un atributo personalizado del formulario de dirección de facturación](https://github.com/PerezContrerasLuis/magento2-dev-guide/commit/48160b4a5e3f0a00112898d3f89187d8577a742e)
 
 12. **Entendiendo Knockout en magento 2**
     - 12.1. (.....)
